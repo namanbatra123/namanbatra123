@@ -6,7 +6,7 @@
   LinkedIn: <a href="https://www.linkedin.com/in/naman-batra/">LinkedIn</a> &middot;
   Website: <a href="https://portfolio-git-main-namanbatra123.vercel.app/">Portfolio</a> &middot;
 </p>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/namanbatra123/count.svg" />  
 </p>
